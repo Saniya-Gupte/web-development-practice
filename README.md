@@ -1,5 +1,5 @@
 # web-development-practice
-Some basic website designs
+Basic website design
 
 Link for website:
 https://saniya-gupte.github.io/web-development-practice/module2/index.html

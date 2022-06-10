@@ -2,4 +2,4 @@
 Basic website design
 
 Link for website:
-https://saniya-gupte.github.io/web-development-practice/module2/index.html
+https://saniya-gupte.github.io/web-development-practice/
